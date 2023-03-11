@@ -22,7 +22,7 @@ export default function Footer() {
               Menu
             </a>
             <Link to="/reservations">Reservations</Link>
-            <Link to="/order">Order</Link>
+            <Link to="/order">order</Link>
             <Link to="/login">Login</Link>
           </ul>
         </li>
